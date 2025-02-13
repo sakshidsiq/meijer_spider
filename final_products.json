@@ -1,0 +1,654 @@
+[
+  {
+    "name": "MEIJER BEANS BLACK 15.25 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125096392",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5096/39/0004125096392_2_A1C1_0200.png",
+    "variation": "4125096392_2",
+    "id": "4125096392",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+
+  {
+    "name": "DACCI! PROSECCO 750 ML",
+    "price": 16.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81680502194",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0816/80/5021/94/0816805021948_0_A1C1_0200.png",
+    "variation": "81680502194_1",
+    "id": "81680502194",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MISSION TORTILLA SMALL FAJITA 20 CT 23 OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/7373100830",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0073/73/1008/30/0073731008300_a1c1_0200.png",
+    "variation": "7373100830_1",
+    "id": "7373100830",
+    "average_rating": 4.3158,
+    "total_reviews": 19
+  },
+  {
+    "name": "PROGRESSO R&H CHICKEN NOODLE 19 OZ",
+    "price": 2.55,
+    "product_url": "https://www.meijer.com/shop/en/p/4119691401",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/19/6914/01/0041196914016_0_A1C1_0200.jpg",
+    "variation": "4119691401_1",
+    "id": "4119691401",
+    "average_rating": 4.702,
+    "total_reviews": 1631
+  },
+  {
+    "name": "PILLSBURY CRESCENTS DOUGH SHEET 8 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000757",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0001/80/0000/75/0001800000757_2_A1C1_0200.png",
+    "variation": "1800000757_2",
+    "id": "1800000757",
+    "average_rating": 4.7615,
+    "total_reviews": 2457
+  },
+  {
+    "name": "CAMPBELLS SOUP FRENCH ONION 10.5 OZ",
+    "price": 1.5,
+    "product_url": "https://www.meijer.com/shop/en/p/5100001177",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0051/00/0011/77/0051000011770_1_A1C1_0200.jpg",
+    "variation": "5100001177_7",
+    "id": "5100001177",
+    "average_rating": 4.6842,
+    "total_reviews": 76
+  },
+  {
+    "name": "MEIJER SLICED CHEESE COLBY JACK 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125002563",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/25/0025/63/0041250025634_1_A1C1_0200.jpg",
+    "variation": "4125002563_2",
+    "id": "4125002563",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MCCORMICK SEASONING MIX TACO 1 OZ",
+    "price": 0.89,
+    "product_url": "https://www.meijer.com/shop/en/p/5210003491",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0052/10/0034/91/0052100034911_1_A1C1_0200.jpg",
+    "variation": "5210003491_4",
+    "id": "5210003491",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER SHRED CHS MOZZARELLA 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125095049",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5095/04/0004125095049_2_A1C1_0200.png",
+    "variation": "4125095049_1",
+    "id": "4125095049",
+    "average_rating": 3.0,
+    "total_reviews": 2
+  },
+  {
+    "name": "OLD EL PASO REFRIED BEANS TRADITIONAL 16 OZ",
+    "price": 1.99,
+    "product_url": "https://www.meijer.com/shop/en/p/4600082121",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0046/00/0821/21/0046000821214_0_A1C1_0200.jpg",
+    "variation": "4600082121_1",
+    "id": "4600082121",
+    "average_rating": 4.3329,
+    "total_reviews": 2367
+  },
+  {
+    "name": "CUTWATER ESPRESSO MARTINI 4PK CAN 12OZ",
+    "price": 12.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81675102373",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0816/75/1023/73/0816751023737_0_A1C1_0200.jpg",
+    "variation": "81675102373_2",
+    "id": "81675102373",
+    "average_rating": 4.75,
+    "total_reviews": 4
+  },
+  {
+    "name": "PILLSBURY CINNAMON ROLLS CREAM CHEESE 8 CT 12.4 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000512",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0001/80/0000/51/0001800000512_3_A1C1_0200.png",
+    "variation": "1800000512_1",
+    "id": "1800000512",
+    "average_rating": 4.6214,
+    "total_reviews": 309
+  },
+  {
+    "name": "JOSE CUERVO AUTHENTIC MARGARITA LIME PET 1.75 LT",
+    "price": 14.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81153801099",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0811/53/8010/99/0811538010993_0_A1C1_0200.png",
+    "variation": "81153801099_1",
+    "id": "81153801099",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+
+  {
+    "name": "LITTLE DEBBIE MUFFINS BLUEBERRY MINI 8.44 OZ",
+    "price": 2.49,
+    "product_url": "https://www.meijer.com/shop/en/p/2430004442",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0002/43/0004/44/0002430004442_2_A1C1_0200.png",
+    "variation": "2430004442_1",
+    "id": "2430004442",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "DACCI! PROSECCO 750 ML",
+    "price": 16.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81680502194",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0816/80/5021/94/0816805021948_0_A1C1_0200.png",
+    "variation": "81680502194_1",
+    "id": "81680502194",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MISSION TORTILLA SMALL FAJITA 20 CT 23 OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/7373100830",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0073/73/1008/30/0073731008300_a1c1_0200.png",
+    "variation": "7373100830_1",
+    "id": "7373100830",
+    "average_rating": 4.3158,
+    "total_reviews": 19
+  },
+  {
+    "name": "PROGRESSO R&H CHICKEN NOODLE 19 OZ",
+    "price": 2.55,
+    "product_url": "https://www.meijer.com/shop/en/p/4119691401",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/19/6914/01/0041196914016_0_A1C1_0200.jpg",
+    "variation": "4119691401_1",
+    "id": "4119691401",
+    "average_rating": 4.702,
+    "total_reviews": 1631
+  },
+  {
+    "name": "PILLSBURY CRESCENTS DOUGH SHEET 8 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000757",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0001/80/0000/75/0001800000757_2_A1C1_0200.png",
+    "variation": "1800000757_2",
+    "id": "1800000757",
+    "average_rating": 4.7615,
+    "total_reviews": 2457
+  },
+  {
+    "name": "CAMPBELLS SOUP FRENCH ONION 10.5 OZ",
+    "price": 1.5,
+    "product_url": "https://www.meijer.com/shop/en/p/5100001177",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0051/00/0011/77/0051000011770_1_A1C1_0200.jpg",
+    "variation": "5100001177_7",
+    "id": "5100001177",
+    "average_rating": 4.6842,
+    "total_reviews": 76
+  },
+  {
+    "name": "MEIJER SLICED CHEESE COLBY JACK 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125002563",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/25/0025/63/0041250025634_1_A1C1_0200.jpg",
+    "variation": "4125002563_2",
+    "id": "4125002563",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MCCORMICK SEASONING MIX TACO 1 OZ",
+    "price": 0.89,
+    "product_url": "https://www.meijer.com/shop/en/p/5210003491",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0052/10/0034/91/0052100034911_1_A1C1_0200.jpg",
+    "variation": "5210003491_4",
+    "id": "5210003491",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER SHRED CHS MOZZARELLA 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125095049",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5095/04/0004125095049_2_A1C1_0200.png",
+    "variation": "4125095049_1",
+    "id": "4125095049",
+    "average_rating": 3.0,
+    "total_reviews": 2
+  },
+  {
+    "name": "OLD EL PASO REFRIED BEANS TRADITIONAL 16 OZ",
+    "price": 1.99,
+    "product_url": "https://www.meijer.com/shop/en/p/4600082121",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0046/00/0821/21/0046000821214_0_A1C1_0200.jpg",
+    "variation": "4600082121_1",
+    "id": "4600082121",
+    "average_rating": 4.3329,
+    "total_reviews": 2367
+  },
+  {
+    "name": "CUTWATER ESPRESSO MARTINI 4PK CAN 12OZ",
+    "price": 12.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81675102373",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0816/75/1023/73/0816751023737_0_A1C1_0200.jpg",
+    "variation": "81675102373_2",
+    "id": "81675102373",
+    "average_rating": 4.75,
+    "total_reviews": 4
+  },
+  {
+    "name": "PILLSBURY CINNAMON ROLLS CREAM CHEESE 8 CT 12.4 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000512",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0001/80/0000/51/0001800000512_3_A1C1_0200.png",
+    "variation": "1800000512_1",
+    "id": "1800000512",
+    "average_rating": 4.6214,
+    "total_reviews": 309
+  },
+  {
+    "name": "JOSE CUERVO AUTHENTIC MARGARITA LIME PET 1.75 LT",
+    "price": 14.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81153801099",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0811/53/8010/99/0811538010993_0_A1C1_0200.png",
+    "variation": "81153801099_1",
+    "id": "81153801099",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "YO CRUNCH VANILLA M&MS 4/4 OZ",
+    "price": 3.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4667501351",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0046/67/5013/51/0046675013518_7_A1C1_0200.jpg",
+    "variation": "4667501351_1",
+    "id": "4667501351",
+    "average_rating": 4.52,
+    "total_reviews": 25
+  },
+  {
+    "name": "PILLSBURY MINI PIZZA CRUSTS 16.3 OZ",
+    "price": 3.85,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000076",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0001/80/0000/07/0001800000076_0_A1C1_0200.png",
+    "variation": "1800000076_2",
+    "id": "1800000076",
+    "average_rating": 2.4286,
+    "total_reviews": 21
+  },
+  {
+    "name": "GM CHEERIOS HONEY NUT 18.8 OZ",
+    "price": 3.99,
+    "product_url": "https://www.meijer.com/shop/en/p/1600016968",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0016/00/0169/68/0016000169685_4_A1C1_0200.jpg",
+    "variation": "1600016968_2",
+    "id": "1600016968",
+    "average_rating": 4.8168,
+    "total_reviews": 2560
+  },
+  {
+    "name": "PILLSBURY GRANDS BISCUITS BUTTER TASTIN 16.3 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000183",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0018/00/0001/83/0018000001835_0_A1C1_0200.jpg",
+    "variation": "1800000183_2",
+    "id": "1800000183",
+    "average_rating": 4.84,
+    "total_reviews": 1225
+  },
+  {
+    "name": "TWO CHICKS VODKA & ELDERFLOWER 4 PK/12 OZ CAN",
+    "price": 10.99,
+    "product_url": "https://www.meijer.com/shop/en/p/85000357406",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0085/00/0357/40/0085000357406_0_A1C1_0200.png",
+    "variation": "85000357406_1",
+    "id": "85000357406",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MEIJER BEANS GARBANZO 15.5 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125096393",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5096/39/0004125096393_2_A1C1_0200.png",
+    "variation": "4125096393_3",
+    "id": "4125096393",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER CHUNK CHEESE COLBY JACK 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125068940",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/25/0689/40/0041250689409_1_A1C1_0200.jpg",
+    "variation": "4125068940_2",
+    "id": "4125068940",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "CHI CHIS PINEAPPLE MARGARITA 187 ML",
+    "price": 1.25,
+    "product_url": "https://www.meijer.com/shop/en/p/8066001166",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0080/66/0011/66/0080660011660_0_A1C1_0200.png",
+    "variation": "8066001166_2",
+    "id": "8066001166",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER TORTILLA CHIPS ROUND WHITE PARTY SIZE 18OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346653",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/65/0071373346653_0_A1C1_0200.png",
+    "variation": "71373346653_2",
+    "id": "71373346653",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER RIPPLE ORIGINAL PARTY SIZE 12.5OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346667",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/66/0071373346667_0_A1C1_0200.png",
+    "variation": "71373346667_2",
+    "id": "71373346667",
+    "average_rating": 2.5,
+    "total_reviews": 10
+  },
+  {
+    "name": "MEIJER SLICED CHEESE PEPPER JACK 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125005878",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0041/25/0058/78/0041250058786_1_A1C1_0200.jpg",
+    "variation": "4125005878_2",
+    "id": "4125005878",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER PASTA CAVATAPPI 16 OZ",
+    "price": 1,
+    "product_url": "https://www.meijer.com/shop/en/p/70882043645",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0708/82/0436/45/0708820436459_0_A1C1_0200.jpg",
+    "variation": "70882043645_1",
+    "id": "70882043645",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MEIJER POTATO CHIPS BBQ PARTY SIZE 12.5OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346732",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/73/0071373346732_0_A1C1_0200.png",
+    "variation": "71373346732_1",
+    "id": "71373346732",
+    "average_rating": 2.6667,
+    "total_reviews": 6
+  },
+  {
+    "name": "MIKES HARDER BLACK CHERRY CAN 23.5 OZ",
+    "price": 3,
+    "product_url": "https://www.meijer.com/shop/en/p/63598513215",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0635/98/5132/15/0635985132158_0_A1C1_0200.png",
+    "variation": "63598513215_1",
+    "id": "63598513215",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "OLD EL PASO FLOUR TORTILLA SOFT 10 CT 8.2 OZ",
+    "price": 2.69,
+    "product_url": "https://www.meijer.com/shop/en/p/4600027341",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/60/0027/34/0004600027341_2_A1C1_0200.png",
+    "variation": "4600027341_1",
+    "id": "4600027341",
+    "average_rating": 4.7887,
+    "total_reviews": 478
+  },
+  {
+    "name": "MEIJER FINELY SHRED CHS COJACK 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125067838",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5067/83/0004125067838_2_A1C1_0200.png",
+    "variation": "4125067838_2",
+    "id": "4125067838",
+    "average_rating": 3.0,
+    "total_reviews": 2
+  },
+  {
+    "name": "GM CINNAMON TOAST CRUNCH 18.8 OZ",
+    "price": 3.99,
+    "product_url": "https://www.meijer.com/shop/en/p/1600017113",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0016/00/0171/13/0016000171138_0_A1C1_0200.jpg",
+    "variation": "1600017113_1",
+    "id": "1600017113",
+    "average_rating": 4.8059,
+    "total_reviews": 2452
+  },
+  {
+    "name": "CAMPBELLS SOUP CONDENSED CREAM MUSHROOM 23 OZ",
+    "price": 2.79,
+    "product_url": "https://www.meijer.com/shop/en/p/5100021242",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0051/00/0212/42/0051000212429_1_A1C1_0200.jpg",
+    "variation": "5100021242_4",
+    "id": "5100021242",
+    "average_rating": 4.8172,
+    "total_reviews": 826
+  },
+  {
+    "name": "MEIJER RIPPLE CHEDDAR SC PARTY SIZE 12.5OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346696",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/69/0071373346696_0_A1C1_0200.png",
+    "variation": "71373346696_2",
+    "id": "71373346696",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "FRANZIA SUNSET BLUSH 5 LT",
+    "price": 17.99,
+    "product_url": "https://www.meijer.com/shop/en/p/8312010369",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0083/12/0103/69/0083120103691_3_A1C1_0200.png",
+    "variation": "8312010369_5",
+    "id": "8312010369",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER POTATO CHIPS VARIETY PK 18CT 18OZ",
+    "price": 6.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346742",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/74/0071373346742_0_A1C1_0200.png",
+    "variation": "71373346742_1",
+    "id": "71373346742",
+    "average_rating": 2.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "STOUFFERS FAM SZ LASAGNA WITH MEAT SAUCE 38 OZ",
+    "price": 7.99,
+    "product_url": "https://www.meijer.com/shop/en/p/1380014333",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0013/80/0143/33/0013800143334_10_A1C1_0200.jpg",
+    "variation": "1380014333_2",
+    "id": "1380014333",
+    "average_rating": 4.2765,
+    "total_reviews": 991
+  },
+  {
+    "name": "1800 ULTIMATE RASPBERRY MARGARITA 1.75 LT",
+    "price": 17.99,
+    "product_url": "https://www.meijer.com/shop/en/p/81153801381",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0811/53/8013/81/0811538013819_0_A1C1_0200.png",
+    "variation": "81153801381_1",
+    "id": "81153801381",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "HIGH NOON ORIGINAL VARIETY 12PK CAN 355ML",
+    "price": 23.99,
+    "product_url": "https://www.meijer.com/shop/en/p/8500002986",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0008/50/0002/98/0008500002986_0_A1C1_0200.png",
+    "variation": "8500002986_1",
+    "id": "8500002986",
+    "average_rating": 4.6,
+    "total_reviews": 5
+  },
+  {
+    "name": "MEIJER FINELY SHRED CHS MEXICAN 8 OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/4125067005",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5067/00/0004125067005_2_A1C1_0200.png",
+    "variation": "4125067005_1",
+    "id": "4125067005",
+    "average_rating": 4.5,
+    "total_reviews": 2
+  },
+  {
+    "name": "MEIJER TORTILLA CHIPS REST STYLE PARTY SIZE 18OZ",
+    "price": 2.99,
+    "product_url": "https://www.meijer.com/shop/en/p/71373346655",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3346/65/0071373346655_0_A1C1_0200.png",
+    "variation": "71373346655_2",
+    "id": "71373346655",
+    "average_rating": 3.0,
+    "total_reviews": 2
+  },
+  {
+    "name": "PILLSBURY CRESCENTS ORIGINAL  8 CT 8 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000401",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0018/00/0004/01/0018000004010_0_A1C1_0200.jpg",
+    "variation": "1800000401_2",
+    "id": "1800000401",
+    "average_rating": 4.8204,
+    "total_reviews": 2417
+  },
+  {
+    "name": "HIGH NOON TROPICAL VARIETY 8PK CAN 355ML",
+    "price": 17.99,
+    "product_url": "https://www.meijer.com/shop/en/p/8500003255",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0008/50/0003/25/0008500003255_1_A1C1_0200.png",
+    "variation": "8500003255_1",
+    "id": "8500003255",
+    "average_rating": 4.7391,
+    "total_reviews": 23
+  },
+  {
+    "name": "LITTLE DEBBIE MUFFINS CHOCOLATE CHIP MINI 8.44 OZ",
+    "price": 2.49,
+    "product_url": "https://www.meijer.com/shop/en/p/2430004441",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0002/43/0004/44/0002430004441_2_A1C1_0200.png",
+    "variation": "2430004441_1",
+    "id": "2430004441",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "THOMAS ENGLISH MUFFINS ORIGINAL 6 CT 12 OZ",
+    "price": 3.89,
+    "product_url": "https://www.meijer.com/shop/en/p/4812110208",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0048/12/1102/08/0048121102081_1_A1C1_0200.png",
+    "variation": "4812110208_2",
+    "id": "4812110208",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "PILLSBURY GRANDS BISCUITS FLK LYR ORIG 8CT 16.3OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000260",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0018/00/0002/60/0018000002603_0_A1C1_0200.jpg",
+    "variation": "1800000260_2",
+    "id": "1800000260",
+    "average_rating": 4.7604,
+    "total_reviews": 772
+  },
+  {
+    "name": "MEIJER TRIPLE CHEDDAR BLEND SHRED 8OZ",
+    "price": 2,
+    "product_url": "https://www.meijer.com/shop/en/p/71373379550",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0071/37/3379/55/0071373379550_1_A1C1_0200.png",
+    "variation": "71373379550_4",
+    "id": "71373379550",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "LIBBYS GRAVY COUNTRY SAUSAGE 15 OZ",
+    "price": 1.5,
+    "product_url": "https://www.meijer.com/shop/en/p/3900060020",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0039/00/0600/20/0039000600200_1_A1C1_0200.jpg",
+    "variation": "3900060020_2",
+    "id": "3900060020",
+    "average_rating": 4.2,
+    "total_reviews": 5
+  },
+  {
+    "name": "PILLSBURY CINNAMON ROLLS ORIGINAL 8 CT 12.4 OZ",
+    "price": 3.39,
+    "product_url": "https://www.meijer.com/shop/en/p/1800000501",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0018/00/0005/01/0018000005017_0_A1C1_0200.jpg",
+    "variation": "1800000501_2",
+    "id": "1800000501",
+    "average_rating": 3.5697,
+    "total_reviews": 574
+  },
+  {
+    "name": "MEIJER BEANS GREAT NORTHERN 15.5 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125094161",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5094/16/0004125094161_2_A1C1_0200.png",
+    "variation": "4125094161_1",
+    "id": "4125094161",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER OYSTER & SOUP SELECT CRACKERS BAG 9 OZ",
+    "price": 1.79,
+    "product_url": "https://www.meijer.com/shop/en/p/70882071421",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0708/82/0714/21/0708820714212_1_A1C1_0200.jpg",
+    "variation": "70882071421_3",
+    "id": "70882071421",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "name": "MEIJER BEANS KIDNEY LIGHT RED 15.5 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125085666",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5085/66/0004125085666_3_A1C1_0200.png",
+    "variation": "4125085666_2",
+    "id": "4125085666",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  {
+    "name": "MEIJER BEANS DARK RED KIDNEY 15.5 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125094166",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5094/16/0004125094166_3_A1C1_0200.png",
+    "variation": "4125094166_1",
+    "id": "4125094166",
+    "average_rating": 3.0,
+    "total_reviews": 2
+  },
+  {
+    "name": "MEIJER BEANS BLACK 15.25 OZ",
+    "price": 0.79,
+    "product_url": "https://www.meijer.com/shop/en/p/4125096392",
+    "hero_image": "https://www.meijer.com/content/dam/meijer/product/0004/12/5096/39/0004125096392_2_A1C1_0200.png",
+    "variation": "4125096392_2",
+    "id": "4125096392",
+    "average_rating": 5.0,
+    "total_reviews": 1
+  }
+]
